@@ -1,6 +1,8 @@
 .masthead-intro,
 .masthead-heading {
 	text-align:  center;
+	font-weight: bolder;
+	color:navy;
 }
 .masthead {
 	padding: 6em 0;
@@ -21,7 +23,7 @@
 .info {
 	vertical-align: top;
 	font-family: sans-serif;
-	color:red;
+	color:navy;
 	display: inline-block;
 	width: 30%;
 	padding-left: 30px;
